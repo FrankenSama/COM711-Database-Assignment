@@ -1,0 +1,6 @@
+# Database Assignment Requirements
+# SQLite is built into Python, no external packages needed
+
+# Development tools (optional)
+# black==23.7.0
+# pytest==7.4.0
